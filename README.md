@@ -6,11 +6,13 @@ A script to collect all the device information form your TestFlightApp.com accou
 
 `casperjs` http://casperjs.org/
 
-Useage:
+# Useage
+
+## Example
 
     casperjs device.js --username=xxxx --password=yyyy >> device.csv
   
-Output:
+## Output
 
 `device.csv`
 
